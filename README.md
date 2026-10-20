@@ -18,6 +18,9 @@ In order to run 'problems.ipynb' you can follow these steps:
 2. Ensure you have [Python](https://www.python.org/) installed. An easy way to get Python is to use [uv](https://docs.astral.sh/uv/) or [Anaconda](https://www.anaconda.com/download).
 3. And so on...
 
+## Dependencies
+
+The notebook depends on [numpy](https://numpy.org/install/) package, the [matplotlib](https://matplotlib.org/stable/install/index.html) package...
 
 ## About the Notebook
 
